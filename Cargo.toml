@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-configuration-management-engine"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS configuration-management-engine component - declarative_config"
+
+[lib]
+name = "configuration_management_engine"
+path = "src/lib.rs"
