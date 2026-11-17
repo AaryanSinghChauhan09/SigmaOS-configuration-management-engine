@@ -3,7 +3,7 @@ name = "SigmaOS-configuration-management-engine"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "configuration-management-engine component"
+description = "Configuration Management Engine"
 upstream = []
 
 [contract]
